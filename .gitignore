@@ -2,3 +2,4 @@ interface-output-*.*
 *.dmp
 CrashAutoSave*.toe
 .DS_Store
+.idea
